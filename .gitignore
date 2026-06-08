@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/creditcard.csv
+results/X_train_sm.npy
+results/X_train_sm.npy
+results/X_train_sm.npy
+results/X_train_sm.npy
