@@ -216,8 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data and generated arrays (re-created by the notebooks)
 data/creditcard.csv
-results/X_train_sm.npy
-results/X_train_sm.npy
-results/X_train_sm.npy
-results/X_train_sm.npy
+results/*.npy
