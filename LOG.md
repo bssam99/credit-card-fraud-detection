@@ -1,6 +1,6 @@
 # Development Log — Credit Card Fraud Detection
 ## Project 16 | Team: 3 Members | Submitted via GitHub
-### Student A: Bassam Osman (Team  Leader)
+### Student A: Bassam Ahmed (Team  Leader)
 ### Student B: Ahmed Magdy Nafea
 ### Student C: Aya Mohamed Mahmoud 
 ---

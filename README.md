@@ -8,7 +8,7 @@ Detecting fraudulent card transactions in a highly imbalanced dataset (**0.17% f
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
 > **CISC 867 – Deep Learning, Queen's University** · Supervisor: Dr. Hazem Abbas
-> Team: Bssam Osman (team lead – EDA & preprocessing), Ahmed Nafea (classical models), Aya Mohamed (deep model & reporting)
+> Team: Bassam Ahmed (team lead – EDA & preprocessing), Ahmed Nafea (classical models), Aya Mohamed (deep model & reporting)
 
 ## Results
 
